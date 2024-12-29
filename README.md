@@ -1,1 +1,1 @@
-# TEA_curated_data
+# Curated datasets for TEA
