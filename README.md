@@ -12,20 +12,20 @@ The JSON files contain curated article hash as a key followed by IOB-format comp
 
 | **Entity**     | **Number of tags** |
 | -------------- | ------------------ |
-| commensals     | 14                 |
-| negatives      | 469                |
-| opportunistics | 21                 |
-| pathogens      | 181                |
-| probiotics     | 10                 |
-| strains        | 41                 |
+| commensals     | 25                 |
+| negatives      | 9322               |
+| opportunistics | 37                 |
+| pathogens      | 859                |
+| probiotics     | 20                 |
+| strains        | 123                |
 
 ### Strain Tagger
 
 | **Entity** | **Number of tags** |
 | ---------- | ------------------ |
-| negatives  | 400                |
-| species    | 127                |
-| strains    | 135                |
+| negatives  | 13181              |
+| species    | 837                |
+| strains    | 1788               |
 
 The curated data is provided under MIT licence.
 
